@@ -1,0 +1,132 @@
+[
+  {
+    "PropertyId": "P101",
+    "PropertyName": "The Grand Plaza",
+    "Features": [
+      "24/7 Security",
+      "Fitness Center",
+      "Swimming Pool",
+      "Rooftop Garden"
+    ],
+    "Highlights": [
+      "Located in the heart of downtown",
+      "Close proximity to business district",
+      "Energy-efficient building with LEED certification"
+    ],
+    "Transportation": [
+      {
+        "Type": "Subway",
+        "Line": "Green Line",
+        "Distance": "0.5 miles"
+      },
+      {
+        "Type": "Bus",
+        "Line": "Route 15",
+        "Distance": "0.2 miles"
+      }
+    ],
+    "Spaces": [
+      {
+        "SpaceId": "S101",
+        "SpaceName": "Suite 101",
+        "RentRoll": [
+          {
+            "Month": "Jan",
+            "Rent": 2000
+          },
+          {
+            "Month": "Feb",
+            "Rent": 2000
+          },
+          {
+            "Month": "Mar",
+            "Rent": 2100
+          }
+        ]
+      },
+      {
+        "SpaceId": "S102",
+        "SpaceName": "Suite 102",
+        "RentRoll": [
+          {
+            "Month": "Jan",
+            "Rent": 1800
+          },
+          {
+            "Month": "Feb",
+            "Rent": 1850
+          },
+          {
+            "Month": "Mar",
+            "Rent": 1850
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "PropertyId": "P102",
+    "PropertyName": "Ocean View Tower",
+    "Features": [
+      "Underground Parking",
+      "Gym Access",
+      "Community Lounge",
+      "Pet-Friendly"
+    ],
+    "Highlights": [
+      "Panoramic ocean views",
+      "Walking distance to waterfront park",
+      "High-speed fiber internet available"
+    ],
+    "Transportation": [
+      {
+        "Type": "Train",
+        "Line": "Blue Line",
+        "Distance": "1 mile"
+      },
+      {
+        "Type": "Bike Share",
+        "Station": "Ocean Blvd & 3rd St",
+        "Distance": "0.1 miles"
+      }
+    ],
+    "Spaces": [
+      {
+        "SpaceId": "S201",
+        "SpaceName": "Penthouse A",
+        "RentRoll": [
+          {
+            "Month": "Jan",
+            "Rent": 5000
+          },
+          {
+            "Month": "Feb",
+            "Rent": 5200
+          },
+          {
+            "Month": "Mar",
+            "Rent": 5300
+          }
+        ]
+      },
+      {
+        "SpaceId": "S202",
+        "SpaceName": "Office Suite B",
+        "RentRoll": [
+          {
+            "Month": "Jan",
+            "Rent": 2500
+          },
+          {
+            "Month": "Feb",
+            "Rent": 2550
+          },
+          {
+            "Month": "Mar",
+            "Rent": 2600
+          }
+        ]
+      }
+    ]
+  }
+]
